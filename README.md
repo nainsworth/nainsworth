@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Nicholas Ainsworth
 ===================================
 
-I have a Computer Information Systems Bachelor's Degree with a focus in programming from Nicholls State University. I have studied numerous languages such as HTML, CSS, JavaScript, SQL, VB.net, and C#. I found a passion in the creative process of development and decided to change career paths to seek a position in frontend development.
+I have a Computer Information Systems Bachelor's Degree with a programming concentration. I have studied numerous languages such as HTML, CSS, JavaScript, SQL, VB.net, and C#. I found a passion in the creative process of development and decided to change career paths to seek a position in frontend development.
 
 * 🌍  I'm based in Houma, Louisiana
 * ✉️  You can contact me at [nja8161995@gmail.com](mailto:nja8161995@gmail.com)
