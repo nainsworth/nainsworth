@@ -5,7 +5,7 @@ I have a Computer Information Systems Bachelor's Degree with a programming conce
 
 * 🌍  I'm based in Houma, Louisiana
 * ✉️  You can contact me at [nja8161995@gmail.com](mailto:nja8161995@gmail.com)
-* 🚀  I'm currently working on [The Odin Project Curriculum](http://github.com/nainsworth)
+* 🚀  I'm currently working on [The Odin Project Curriculum](http://theodinproject.com)
 * 🧠  I'm learning today's processes involved in frontend development
 
 <a href="https://www.github.com/nainsworth" target="_blank" rel="noreferrer"><img
