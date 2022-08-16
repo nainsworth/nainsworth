@@ -8,8 +8,8 @@ I have a Computer Information Systems Bachelor's Degree with a programming conce
 * 🚀  I'm currently working on [The Odin Project Curriculum](http://theodinproject.com)
 * 🧠  I'm learning today's processes involved in frontend development
 
-<a href="https://www.github.com/nainsworth" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nainsworth?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/META-N1CK" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/META-N1CK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
