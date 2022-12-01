@@ -1,11 +1,11 @@
 ### Hi 👋 My name is Nicholas Ainsworth
 ===================================
 
-I have a Computer Information Systems Bachelor's Degree with a programming concentration. I have studied numerous languages such as HTML, CSS, JavaScript, SQL, VB.net, and C#. I found a passion in the creative process of development and decided to change career paths to seek a position in frontend development.
+I have a Computer Information Systems Bachelor's Degree with a programming concentration. I have studied numerous languages such as HTML, CSS, JavaScript, SQL, VB.net, and C#. I found a passion in the creative process of development and decided to change career paths to begin my journey in web development.
 
 * 🌍  I'm based in Houma, Louisiana
 * ✉️  You can contact me at [nja8161995@gmail.com](mailto:nja8161995@gmail.com)
-* 🚀  I'm currently working on [The Odin Project Curriculum](http://theodinproject.com)
+* 🚀  I'm currently working the Node.JS Full-Stack Curriculum with [The Odin Project](http://theodinproject.com)
 * 🧠  I'm learning today's processes involved in frontend development
 
 <a href="https://www.github.com/nainsworth" target="_blank" rel="noreferrer"><img
