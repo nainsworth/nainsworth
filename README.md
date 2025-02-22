@@ -1,13 +1,12 @@
-### Hi 👋 My name is Nicholas Ainsworth
+### Hi, My name is Nicholas Ainsworth
 ===================================
-
 A passionate frontend developer from Louisiana
 
 * ✉️  You can contact me at [nja8161995@gmail.com](mailto:nja8161995@gmail.com)
 * 🚀  I'm currently building on my skills with React and Typescript
 * 🧠  I'm learning today's processes involved in frontend development
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://www.javascript.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://react.dev/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
