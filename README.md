@@ -7,6 +7,8 @@ A passionate frontend developer from Louisiana
 * 🚀  I'm currently building on my skills with React and Typescript
 * 🧠  I'm learning today's processes involved in frontend development
 
+  
+
 <h2>Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://www.javascript.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -32,9 +34,12 @@ A passionate frontend developer from Louisiana
 </p>
 
 
+
 <h2>Socials</h2>
 
 <p align="left"> <a href="https://www.facebook.com/nicholas.ainsworth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/nainsworth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nick__ainsworth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nicholas-ainsworth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
 
 <h2>Badges</h2>
 
