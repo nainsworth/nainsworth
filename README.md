@@ -1,5 +1,6 @@
 ### Hi, My name is Nicholas Ainsworth
 ===================================
+
 A passionate frontend developer from Louisiana
 
 * ✉️  You can contact me at [nja8161995@gmail.com](mailto:nja8161995@gmail.com)
